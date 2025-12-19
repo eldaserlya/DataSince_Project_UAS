@@ -1,9 +1,9 @@
 # Perbandingan Metode Machine Learning dan Deep Learning untuk Klasifikasi Target pada Dataset TAE
 
 ## 👤 Informasi
-- **Nama:** *(isi nama kamu)*
-- **NIM:** *(isi NIM kamu)*
-- **Mata Kuliah:** TI22406 – Data Science
+- **Nama:** *Elda Serlya Dwi Seviana*
+- **NIM:** *233307044*
+- **Mata Kuliah:** TI22406 Data Science
 - **Dosen Pengampu:** Gus Nanang Syaifuddiin, S.Kom., M.Kom.
 - **Link GitHub Repository:** https://github.com/eldaserlya/DataSince_Project_UAS
 - **Link Video Penjelasan:** *(tempel link video kamu di sini)*
@@ -14,7 +14,7 @@
 Proyek ini membandingkan performa **Machine Learning** dan **Deep Learning** untuk tugas **klasifikasi** pada **Teaching Assistant Evaluation (TAE) dataset**.
 Eksperimen mencakup:
 - Data understanding & data preparation (encoding + scaling + split)
-- Minimal **3 visualisasi EDA**
+- **3 visualisasi EDA**
 - Pelatihan **3 model**: **Baseline**, **Advanced ML**, dan **Deep Learning (MLP)**
 - Evaluasi performa dan pemilihan model terbaik
 
