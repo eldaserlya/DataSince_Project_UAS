@@ -6,7 +6,7 @@
 - [x] Ada visualisasi EDA (min. 3)
 - [x] Ada hasil evaluasi ketiga model
 - [x] Ada link GitHub yang dapat diakses (PUBLIC)
-- [ ] Ada link video penjelasan proyek
+- [x] Ada link video penjelasan proyek
 
 ## GitHub Repository
 - [x] Kode dapat dijalankan (tested)
