@@ -1,8 +1,5 @@
 
-=== Model 1 (Baseline) - Logistic Regression ===
-Accuracy: 0.5161
-F1-macro: 0.5112
-
+=== Logistic Regression Report ===
               precision    recall  f1-score   support
 
            1     0.4444    0.4000    0.4211        10
@@ -14,10 +11,7 @@ F1-macro: 0.5112
 weighted avg     0.5158    0.5161    0.5152        31
 
 
-=== Model 2 (Advanced/ML) - Random Forest ===
-Accuracy: 0.6774
-F1-macro: 0.6762
-
+=== Random Forest Report ===
               precision    recall  f1-score   support
 
            1     0.6364    0.7000    0.6667        10
@@ -29,10 +23,7 @@ F1-macro: 0.6762
 weighted avg     0.6827    0.6774    0.6790        31
 
 
-=== Model 3 (Deep Learning) - Neural Network (MLP) ===
-Accuracy: 0.4194
-F1-macro: 0.4227
-
+=== Neural Network (MLP) Report ===
               precision    recall  f1-score   support
 
            1     0.3636    0.4000    0.3810        10
