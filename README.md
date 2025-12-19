@@ -124,7 +124,7 @@ File confusion matrix ada di folder `images/`:
 - Model 3 (Deep Learning): `images/cm_model_3_deep_learning__neural_network_mlp.png`
 
 Tampilan:
-![CM LogReg](images/cm_model_1_baseline_logistic_regression.png)
+![CM LogReg](cm_model_1_baseline__logistic_regression.png)
 ![CM Random Forest](images/cm_model_2_advanced_ml__random_forest.png)
 ![CM MLP](images/cm_model_3_deep_learning__neural_network_mlp.png)
 
