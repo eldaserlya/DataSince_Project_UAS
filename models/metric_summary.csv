@@ -1,0 +1,4 @@
+Model,Accuracy,F1-macro
+Model 2 (Advanced/ML) - Random Forest,0.6451612903225806,0.6444444444444444
+Model 1 (Baseline) - Logistic Regression,0.5161290322580645,0.5112022480443533
+Model 3 (Deep Learning) - Neural Network (MLP),0.4838709677419355,0.4855072463768116
